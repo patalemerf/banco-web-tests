@@ -1,6 +1,6 @@
 describe('template spec', () => {
   beforeEach(() => {
-      cy.visit('http://localhost:4000')
+      cy.visit('/')
 
   })
 
